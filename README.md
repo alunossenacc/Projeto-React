@@ -35,5 +35,3 @@ Neste exercício, instalei o create-react-app, criei um projeto básico em React
 Agora, posso começar a construir a aplicação React de acordo com os requisitos dos próximos exercícios!
 
 ---
-
-Esse `README.md` descreve claramente todas as etapas que você seguiu no exercício, desde 
