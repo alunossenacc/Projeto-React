@@ -1,7 +1,6 @@
 # Projeto React - Confusion
 
-Este é um projeto básico criado com o `create-react-app` para a prática dos primeiros passos no desenvolvimento de aplicativos React. A seguir, você encontrará as etapas detalhadas de instalação e configuração do projeto.
-
+Este é um projeto básico criado com o `create-react-app` para a prática dos primeiros passos no desenvolvimento de aplicativos React. 
 ## Objetivo
 
 O objetivo deste exercício foi:
@@ -19,8 +18,6 @@ O objetivo deste exercício foi:
 - NPM ou Yarn (gerenciadores de pacotes).
 
 ---
-
-## Passos Realizados
 
 ### 1. Instalação do `create-react-app`
 
