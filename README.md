@@ -11,13 +11,15 @@ O objetivo deste exercício foi:
 4. Atualizando o README
 5. Subir o projeto para um repositório online (GitHub).
 
-## explicaçao da alteraçao feita no app.js
-foi criada uma div com classe com nome app para poder ser identificado no css para a estilizaçao,
-Navbar é um componente de barra de navegação do Reactstrap e o dark indica que a barra de navegaçao vai ter um fundo escuro
-e o color vai definir a cor da barra de navegaçao.
-o hrf usamos para colocar links
-e o navbarbranch e usado para definirmos o nome dentro da barra de navegaçao 
-a classe container do Bootstrap é usada para centralizar e ajustar oq tem dentro da pagina.
+## Explicação da alteração feita no App.js:
+
+Foi criada uma div com a classe app para poder ser identificada no CSS para a estilização.
+Navbar é um componente de barra de navegação do Reactstrap, e o dark indica que a barra de navegação terá um fundo escuro.
+O color define a cor da barra de navegação.
+O href é usado para inserir links na barra de navegação.
+NavbarBrand é utilizado para definir o nome dentro da barra de navegação.
+A classe container do Bootstrap é utilizada para centralizar e ajustar o conteúdo dentro da página.
+
 
 
 ## imagem do meu app.js React
