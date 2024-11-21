@@ -13,5 +13,5 @@ O objetivo deste exercício foi:
 
 ## imagem do meu app.js React
 
-<img alt="imagem da tela react" src="./confusion/src/image/tela1.png"
+<img alt="imagem da tela react" src="./confusion/src/image/tela2.png"
 width="100%">
